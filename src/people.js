@@ -7,5 +7,4 @@ export let people = [{
 },{
     name: "Lee",
     age: 20,
-},
-]
+}]
